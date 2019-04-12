@@ -1,9 +1,13 @@
 .DS_Store
 node_modules
+<<<<<<< HEAD
 
 
 # local env files
 
+=======
+
+>>>>>>> 4c22880ad8a8bdaaac4cefbdbf6235935461b6f9
 
 # Log files
 npm-debug.log*
